@@ -1,77 +1,93 @@
-# 📊 Análisis de Inversión de Excedentes de Tesorería
+# 📊 Análisis de inversión de excedentes de tesorería
 
-Ejercicio práctico desarrollado en el marco del curso de Controller Financiero (Cámara de Comercio de Madrid).
+## 🧩 Contexto
+Empresa con **superávit estructural de tesorería**, que genera excedentes de liquidez de forma recurrente.
 
-## 📁 Contenido
+Se plantea la necesidad de definir una estrategia de inversión eficiente que permita optimizar el uso del capital sin comprometer la operativa.
 
-- **Actividad optativa controling_1.pdf**  
-  Caso práctico en el que se analiza la gestión e inversión del excedente de liquidez en una pyme con superávit estructural.
+---
 
-## 🎯 Objetivo del ejercicio
+## 🎯 Objetivo
+Diseñar una política de inversión que equilibre:
 
-Definir una estrategia de inversión para una empresa que genera excedentes de tesorería de forma recurrente, equilibrando:
+- Liquidez operativa  
+- Seguridad  
+- Rentabilidad  
 
-- Liquidez operativa
-- Seguridad
-- Rentabilidad
+Desde una perspectiva de **control financiero orientado a la toma de decisiones**.
 
-## 🧠 Enfoque aplicado
+---
 
-El análisis parte de una **gestión prudente de la tesorería**, estableciendo:
+## 🔍 Enfoque de análisis
 
-1. Estimación de gastos corrientes a 5 años
-2. Cálculo de una media (N0) como referencia
-3. Aplicación de un margen de seguridad del **66,6% adicional**
-4. Determinación del capital disponible para invertir (**C1**)
+El análisis se basa en una gestión prudente de la tesorería:
 
-Este enfoque garantiza:
-- Cobertura de necesidades operativas
-- Protección ante imprevistos
-- Base sólida para la toma de decisiones
+- Estimación de gastos operativos a 5 años  
+- Cálculo de una base media de referencia (N0)  
+- Aplicación de un margen de seguridad adicional (66,6%)  
+- Determinación del capital disponible para invertir (C1)  
 
-## 💼 Estrategia de inversión propuesta
+➡️ Este enfoque permite:
+- Garantizar la cobertura operativa  
+- Proteger ante imprevistos  
+- Definir una base sólida para la inversión  
 
-Se plantea una política conservadora basada en **diversificación por horizonte temporal**:
+---
+
+## 🧠 Estrategia de inversión
+
+Se propone una política conservadora basada en la diversificación por horizonte temporal:
 
 ### 📉 Corto plazo (70%)
-
-Orientado a máxima liquidez y bajo riesgo:
+Instrumentos orientados a liquidez inmediata y bajo riesgo:
 
 - Depósitos bancarios  
 - Pagarés de empresa  
 - Descuentos por pronto pago  
 
-✔ Objetivo: preservación del capital + disponibilidad inmediata
+✔️ Objetivo: preservación del capital y disponibilidad  
+
+---
 
 ### 📈 Largo plazo (30%)
+Instrumentos con mayor rentabilidad manteniendo perfil prudente:
 
-Búsqueda de mayor rentabilidad manteniendo un perfil prudente:
-
-- Bonos corporativos (empresas privadas)  
+- Bonos corporativos  
 - Bonos del Estado  
 
-✔ Objetivo: incremento del capital en horizontes de 1 a 5 años
+✔️ Objetivo: crecimiento del capital a medio plazo  
+
+---
 
 ## ⚖️ Criterios clave
 
-- Priorización de **seguridad frente a rentabilidad**
-- Enfoque conservador acorde a empresa con superávit
-- Diversificación como herramienta de control de riesgo
-- Revisión periódica de inversiones (especialmente ante cambios en tipos de interés)
+- Priorización de la seguridad frente a la rentabilidad  
+- Enfoque conservador acorde a empresa con superávit  
+- Diversificación como herramienta de control de riesgo  
+- Revisión periódica en función del entorno (tipos de interés)  
 
-## ✅ Conclusión
+---
 
-El ejercicio refleja el papel del controller financiero en la gestión eficiente del excedente de tesorería, combinando:
+## 📈 Conclusión
+La gestión eficiente del excedente de tesorería permite transformar un exceso de liquidez en una **fuente controlada de rentabilidad**, sin comprometer la estabilidad financiera.
 
-- Análisis financiero
-- Planificación a medio-largo plazo
-- Toma de decisiones orientada a minimizar riesgos
+El controller financiero juega un papel clave en:
+- La planificación  
+- La gestión del riesgo  
+- La toma de decisiones estratégicas  
 
-## 🚀 Sobre este repositorio
+---
 
-Este proyecto forma parte de mi portfolio profesional orientado a:
+## 📂 Archivo incluido
+- `analisis_inversion_excedente_tesoreria.pdf`
+
+---
+
+## 💼 Enfoque profesional
+Este ejercicio refleja funciones propias de:
 
 - Control de gestión  
-- Análisis financiero  
-- Toma de decisiones empresariales  
-- Desarrollo de modelos y visualizaciones (Power BI)  
+- Planificación financiera  
+- Gestión de tesorería  
+
+Con un enfoque orientado a la optimización del capital y la toma de decisiones basada en criterios financieros sólidos.
