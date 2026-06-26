@@ -1,104 +1,84 @@
-# 📊 Financial Controller Portfolio
+# Financial Controller Portfolio
 
-## 🧠 Turning data into business decisions
-
-Repositorio profesional donde desarrollo casos prácticos de **control financiero, análisis de negocio y toma de decisiones**, basados en situaciones reales de empresa.
+Repositorio donde estoy desarrollando casos prácticos de control financiero y análisis de negocio con un enfoque aplicado a situaciones reales de empresa.
 
 ---
 
-## 🚀 ¿Qué encontrarás aquí?
+## Sobre este proyecto
 
-Este repositorio no es una simple colección de ejercicios.
+Este repositorio nace como una forma de trabajar problemas reales desde la perspectiva de un Controller Financiero.
 
-Es una **simulación práctica del trabajo de un Controller Financiero**, donde cada caso analiza situaciones reales como:
+La idea no es acumular ejercicios, sino construir análisis que ayuden a responder preguntas clave del negocio:
 
-- 📉 Caída de la rentabilidad pese al crecimiento  
-- 💰 Gestión eficiente de la tesorería  
-- 📊 Análisis de márgenes y estructura de costes  
-- ⚖️ Toma de decisiones basada en datos  
-
-El objetivo es entender no solo los números, sino **la lógica económica del negocio**.
+- Por qué crecen las ventas pero cae el beneficio  
+- Cómo afectan los márgenes a la rentabilidad  
+- Qué hacer con el exceso de liquidez  
+- Dónde están realmente los problemas de una empresa  
 
 ---
 
-## 📂 Proyectos
+## Qué vas a encontrar
 
-Cada proyecto se presenta en su propia carpeta e incluye:
+Cada proyecto aborda un caso concreto y está estructurado en:
 
-- 📝 Un análisis estructurado del caso  
-- 📄 Documento con el desarrollo  
-- 💡 Conclusiones orientadas a negocio  
+- Planteamiento del problema  
+- Análisis financiero  
+- Identificación de causas  
+- Conclusiones orientadas a decisión  
 
----
-
-### 📊 Análisis de margen: crecimiento de ventas con caída del beneficio
-Una empresa aumenta sus ventas un 15%, pero reduce su beneficio.
-
-👉 Se analiza el impacto de los márgenes, pricing y estructura de costes en la rentabilidad.
+El objetivo es replicar la forma de trabajar en un entorno real.
 
 ---
 
-### 💰 Análisis de inversión de excedentes de tesorería
-Diseño de una estrategia para optimizar el uso de liquidez en empresas con superávit.
+## Proyectos
 
-👉 Se define una política de inversión equilibrando seguridad, liquidez y rentabilidad.
+**Análisis de margen: crecimiento de ventas con caída del beneficio**  
+Empresa que incrementa ingresos pero reduce rentabilidad.  
+Análisis centrado en márgenes, pricing y estructura de costes.
 
----
-
-## 🎯 Enfoque
-
-Todos los proyectos están desarrollados desde la perspectiva de un **Controller Financiero**, con foco en:
-
-- Detectar problemas reales del negocio  
-- Analizar la cuenta de resultados y la rentabilidad  
-- Traducir datos en decisiones  
-- Evaluar impactos económicos  
+**Análisis de inversión de excedentes de tesorería**  
+Diseño de una estrategia para gestionar liquidez en una empresa con superávit estructural.  
+Enfoque en seguridad, disponibilidad y rentabilidad.
 
 ---
 
-## 📈 Objetivo del portfolio
+## Enfoque
 
-Construir un repositorio orientado a roles de:
+Todos los casos están planteados con una lógica clara:
 
-- Financial Controller  
-- Business Controller  
-- Finance Analyst  
-
-Mostrando capacidad para analizar, interpretar y aportar valor en entornos reales de empresa.
-
----
-
-## 🏫 Contexto
-
-Los ejercicios se desarrollan a partir del programa de **Controller Financiero de la Cámara de Comercio de Barcelona**, adaptados con un enfoque práctico y profesional.
+- Entender la cuenta de resultados  
+- Identificar el origen de los problemas  
+- Priorizar variables clave (margen, costes, cash)  
+- Traducir el análisis en decisiones  
 
 ---
 
-## 🔄 Evolución
+## Contexto
 
-Este repositorio se encuentra en desarrollo continuo.
+Los ejercicios parten del programa de Controller Financiero de la Cámara de Comercio de Barcelona, pero están desarrollados con un enfoque práctico, más cercano a situaciones reales de empresa.
 
-Se irán incorporando nuevos casos relacionados con:
+---
+
+## Evolución
+
+Este repositorio está en desarrollo.
+
+La idea es seguir incorporando casos relacionados con:
 
 - Control de gestión  
-- Reporting financiero  
 - Análisis de rentabilidad  
-- Modelización (Excel / Power BI)  
+- Reporting financiero  
+- Modelización con Excel y Power BI  
 
 ---
 
-## 👤 Perfil
+## Perfil
 
-Profesional con background en:
-
-- Contabilidad y fiscalidad  
-- Análisis financiero  
-- Herramientas de Business Intelligence (Power BI, Excel avanzado)  
-
-Con un enfoque claro en **control de gestión y toma de decisiones empresariales**.
+Background en contabilidad y análisis financiero, con interés en control de gestión y toma de decisiones orientadas a negocio.
 
 ---
 
-## ⚡ En una frase
+## Idea clave
 
-> No se trata de analizar datos, sino de entender el negocio detrás de ellos.
+Entender los números no es suficiente.  
+Lo importante es entender qué significan y qué decisiones implican.
