@@ -1,78 +1,91 @@
-# 📊 Análisis de margen: crecimiento de ventas con caída del beneficio
+# Análisis de margen: crecimiento de ventas con caída del beneficio
 
-## 🧩 Contexto
-Una empresa presenta el siguiente escenario:
+## Contexto
 
-- Incremento de ventas: **+15%**
-- Disminución del beneficio neto: **-8%**
+La empresa presenta la siguiente situación:
 
-Este comportamiento refleja una situación habitual en entornos reales donde el crecimiento no siempre se traduce en mayor rentabilidad.
+- Las ventas crecen un 15%  
+- El beneficio neto disminuye un 8%  
 
----
-
-## 🎯 Objetivo
-Analizar las posibles causas de la divergencia entre crecimiento de ventas y caída del beneficio, desde una perspectiva de **control financiero orientado a negocio**.
+Este escenario refleja un caso habitual en empresa: crecer no siempre implica mejorar la rentabilidad.
 
 ---
 
-## 🔍 Enfoque de análisis
-Se realiza un análisis de la cuenta de resultados para identificar el punto donde se deteriora el beneficio:
+## Objetivo
 
-- Margen bruto
-- Costes operativos
-- Mix de clientes y productos
-- Resultado financiero
+Analizar qué factores pueden estar provocando la caída del beneficio pese al incremento de ventas, con un enfoque orientado a entender la lógica económica del negocio.
 
 ---
 
-## 🧠 Principales hipótesis
+## Enfoque
 
-### 1. Deterioro de márgenes
-El crecimiento de ventas puede estar sustentado en:
-- Descuentos comerciales
-- Políticas agresivas de pricing
+El análisis parte de una revisión de la cuenta de resultados para identificar dónde se produce la pérdida de rentabilidad:
 
-➡️ Impacto:
-Incremento de ingresos con reducción de rentabilidad.
+- Evolución del margen  
+- Comportamiento de los costes  
+- Mix de clientes o productos  
+- Impacto financiero  
 
----
-
-### 2. Incremento de costes
-- Aumento de costes variables
-- Desviaciones respecto al presupuesto
-- Ineficiencias operativas
+El objetivo es localizar el punto donde el crecimiento deja de generar valor.
 
 ---
 
-### 3. Mix de ventas desfavorable
-- Mayor peso de clientes de baja rentabilidad
-- Incremento de productos o servicios con menor margen
+## Principales líneas de análisis
+
+### Márgenes
+
+Una de las primeras hipótesis es el deterioro del margen.
+
+El crecimiento de ventas puede estar vinculado a:
+- Descuentos comerciales  
+- Políticas de pricing agresivas  
+
+Esto permite vender más, pero reduce la rentabilidad por operación.
 
 ---
 
-### 4. Impacto financiero
-- Mayor necesidad de financiación para sostener el crecimiento
-- Incremento de los gastos financieros
+### Costes
+
+Se analiza si existe un incremento de costes que absorba el crecimiento:
+
+- Costes variables ligados a la actividad  
+- Incremento de costes fijos  
+- Ineficiencias operativas o desviaciones  
 
 ---
 
-## 📈 Conclusión
-El crecimiento de ventas no garantiza una mejora del beneficio si no viene acompañado de un control adecuado de márgenes y costes.
+### Mix de ventas
 
-El análisis apunta a un deterioro del margen combinado con un posible incremento de costes o un cambio en el mix de ventas.
+Otra posible causa es un cambio en la composición de las ventas:
+
+- Mayor peso de clientes menos rentables  
+- Productos o servicios con menor margen  
+
+El volumen crece, pero la calidad del ingreso empeora.
 
 ---
 
-## 📂 Archivo incluido
-- `Análisis de margen: crecimiento de ventas con caída del beneficio.pdf`
+### Impacto financiero
+
+El crecimiento puede implicar mayor necesidad de financiación:
+
+- Incremento de deuda  
+- Aumento de gastos financieros  
 
 ---
 
-## 💼 Enfoque profesional
-Este ejercicio refleja un análisis típico en funciones de:
+## Conclusión
 
-- Controller financiero  
-- Análisis de rentabilidad  
-- Toma de decisiones  
+El caso apunta a una idea clave:
 
-Con un enfoque orientado a identificar las causas reales que afectan al resultado de la empresa.
+Crecer no es suficiente si no se controla la rentabilidad.
+
+La caída del beneficio suele estar relacionada con un deterioro de márgenes, un incremento de costes o un mix de ventas desfavorable.
+
+Identificar correctamente el origen del problema es lo que permite tomar decisiones con impacto real.
+
+---
+
+## Archivo
+
+- `analisis_margen_crecimiento_ventas.pdf`
